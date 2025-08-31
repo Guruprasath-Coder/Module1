@@ -13,7 +13,7 @@ To write a Python program to check whether the given number is **even** or **odd
 
 ## 🧾 Program
 a = int(input("Enter a number: "))
-if a % 2 == 0:
+if a % 2 == 0: \n
     print("EVEN")
 else:
     print("ODD")
