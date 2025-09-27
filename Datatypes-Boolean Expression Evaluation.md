@@ -25,12 +25,10 @@ print("a is", a)
 print("b is", b)
 print("c:", c)
 print("d:", d)
-
+```
 ## Output
-a is False
-b is True
-c: 2
-d: 9
+![image](https://github.com/user-attachments/assets/ea64d494-b2a2-4b1a-833e-0e561296ecf0)
 
 ## Result
-The program successfully evaluates boolean and arithmetic expressions involving True and False and displays the correct results.
+```
+Thus, the program as been excuted successfully.
