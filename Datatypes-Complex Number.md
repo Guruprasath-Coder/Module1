@@ -21,13 +21,11 @@ x = complex(a, b)
 print("Complex number:", x)
 print("Real part:", x.real)
 print("Imaginary part:", x.imag)
-
+```
 ## Output
-Enter the real part: 4
-Enter the imaginary part: 5
-Complex number: (4+5j)
-Real part: 4.0
-Imaginary part: 5.0
+![438639571-778828b7-6c2b-4a39-9984-6b60a54eb980](https://github.com/user-attachments/assets/31586238-a956-469b-814c-f368cf28d8e2)
 
 ## Result
-The program successfully creates a complex number using two integer inputs and displays the number along with its real and imaginary parts.
+```
+The program successfully creates a complex number using two integer inputs
+and displays the number along with its real and imaginary parts.
